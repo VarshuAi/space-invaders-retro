@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  2D canvas horizontal laser defense wave defender.
+  name: space-invaders-retro version: 1.0 type: Repository author: VarshuAi description: >   2D canvas horizontal laser defense wave defender. primary_tech: CSS
 primary_tech: CSS
 ```
 
